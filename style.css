@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(91, 106, 110);
+}
+.auau {
+  max-width: 500px;
+  max-height: 500px;
+}
+.inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Ajuste a altura conforme necessário */
+}
